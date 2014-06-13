@@ -5,8 +5,8 @@ Tags: conveyancing, calculator, solicitor tools, quotes
 Author URI: http://www.hoowla.com/
 Plugin URI: 
 Requires at least: 3.4
-Tested up to: 3.4.1
-Stable tag: 1.0
+Tested up to: 3.9.1
+Stable tag: 1.0.1
 License: COPYRIGHT 2014 Hoowla Ltd.
 License URI: https://www.hoowla.com/terms.php
 
