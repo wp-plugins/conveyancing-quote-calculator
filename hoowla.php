@@ -3,8 +3,8 @@
 /**
  * Plugin Name: Conveyancing Quote Calculator
  * Description: Add a conveyancing quote calculator to your website allowing your visitors to get <strong>instant fee estimates</strong> on screen and have their conveyancing quote automatically emailed to them as well. You will be alerted via email to any quotes which have been sent to prospective clients and all the clients information will be stored in <a href="http://www.hoowla.com/">Hoowla's online conveyancing platform</a>.
- * Plugin URI:  http://blog.hoowla.com/conveyancing-quote-calculator-wordpress-plugin/
- * Version:     1.0.1
+ * Plugin URI:  http://blog.hoowla.com/setup-conveyancing-quote-calculator-hoowla/
+ * Version:     1.0.2
  * Author:      Hoowla Ltd.
  * Author URI:  http://www.hoowla.com/
  * License:     COPYRIGHT 2014 Hoowla Ltd.

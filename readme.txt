@@ -5,8 +5,8 @@ Tags: conveyancing, calculator, solicitor tools, quotes
 Author URI: http://www.hoowla.com/
 Plugin URI: 
 Requires at least: 3.4
-Tested up to: 3.9.1
-Stable tag: 1.0.1
+Tested up to: 4.2
+Stable tag: 1.0.2
 License: COPYRIGHT 2014 Hoowla Ltd.
 License URI: https://www.hoowla.com/terms.php
 
@@ -32,10 +32,10 @@ Requires Wordpress 3.4+ and PHP5+.
 == Frequently Asked Questions ==
 
 = Does this plugin work with newest WP version and also older versions? =
-Yes, this plugin works fine with WordPress 3.9!
+Yes, this plugin works fine with WordPress 4.2!
 It also works great with WP 3.4 - and perhaps below - but we've only tested extensively with WP 3.4 and above. So you always should run the latest WordPress version.
 
-= Does this plugin depend on any extenal sources? =
+= Does this plugin depend on any external sources? =
 Yes, the plugin will call a JavaScript file from Hoowla's content delivery network which will load the plugin. When submitted the form will also submit to the Hoowla Servers.
 
 == Screenshots ==
